@@ -5,4 +5,5 @@
    <font color="blue" size="6">Aprendiendo GitHub</font>
   </center>
   <?php
+  echo date("Y-m-d");
 ?>
